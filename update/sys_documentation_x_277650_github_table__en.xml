@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="GitHub Table" language="en" table="x_277650_github_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>GitHub Table</label>
+            <language>en</language>
+            <name>x_277650_github_table</name>
+            <plural>GitHub Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-23 13:22:31</sys_created_on>
+            <sys_id>1d3abd6bdba00010ce54f53a29961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>GitHub Table</sys_name>
+            <sys_package display_value="GitHub" source="x_277650_github">b83a75afdb600010ce54f53a29961979</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="GitHub">b83a75afdb600010ce54f53a29961979</sys_scope>
+            <sys_update_name>sys_documentation_x_277650_github_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-23 13:22:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
